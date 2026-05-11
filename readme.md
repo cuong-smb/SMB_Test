@@ -7,4 +7,6 @@ Help to Translate Our Free Software into Your Local Language
 
 Each software has its own translation instruction so please check below for the program or apps you'd like to translate into your language.
 
+Note: we assume that you're familiar with git and github so no instruction on how to use this platform, or it related tools will be Note: We assume that you are familiar with Git and GitHub, so instructions on how to use these platforms or their related tools will not be provided.
+
 [Click here to read instruction for translating Sao Mai Braille](smb/Instruction.md)
