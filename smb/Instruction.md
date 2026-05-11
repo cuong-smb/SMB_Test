@@ -3,7 +3,6 @@ Below are steps to get started.
 Note, if any of following steps you’re already done, please skip it.
 For any question/request, please don’t hesitate to drop us a message at:
 <support@saomaicenter.org>
-(send e-mail).
 
 ## Preparation for translation
 1. Download and install latest Sao Mai Braille from: 
@@ -26,7 +25,7 @@ You can paste the translated language file in this folder to see how it’s show
 This you can find in the “Available Languages” folder.
 - Please keep your translated language and “SMB.ref” files in “d:\SMB Translation” folder for future update.
 The translated language file generated in “D:\SMB Translation\Release” folder is used to check the result and sent to us to include in Sao Mai Braille.
-- Special character “&” is used to define hotkeys in combination with “Alt” key for that feature.
+- Special character “&” (and) is used to define hotkeys in combination with “Alt” key for that feature.
 So, you can remove it or move it right before the character in your translation language that you want to make it become the hotkey.
 - Text with % sign like “%s” should be kept intact.
 However, you can move it to other suitable position of the sentence in your language.
@@ -47,11 +46,11 @@ Or, esc to cancel.
 4. Move back to the string list, repeat same steps to translate other strings.
  Please don’t forget to choose Save button or press alt+s to save the translation file.
 5. There’s a checkbox to show only untranslated or all strings.
-6. 6. When pressing Save button to save, it will confirm if you want to save the .REF file.
+6. When pressing Save button to save, it will confirm if you want to save the .REF file.
  Choose "Yes" to save it for future update and string comparison between the old and new ones.
 7. To test how it’s written in SMB’s user interface, copy your target language file in “D:\SMB Translation\Release” folder, and replace the old one in “C:\Program Files\SaoMai\SMB\Lang”.
  Run SMB and choose your translated language.
-8. When you’re satisfied with the translation, please commit to your  forked repository on Github, then make a pull-request so we'll get it.
+8. When you’re satisfied with the translation, please commit to your  forked repository on Github, then make a pull-request.
  Or e-mail to us at: <support@saomaicenter.org>.
  We will pack it with next release.
  
@@ -73,7 +72,7 @@ Or, esc to cancel.
  Choose "Yes" to save it for future update and string comparison between the old and new ones.
  7. To test how it’s written in SMB’s user interface, copy your target language file in “D:\SMB Translation\Release\” folder, and replace the old one in “C:\Program Files\SaoMai\SMB\Lang”.
  Run SMB and choose your translated language.
-8. When you’re satisfied with the translation, please commit to your  forked repository on Github, then make a pull-request so we'll get it.
+8. When you’re satisfied with the translation, please commit to your  forked repository on Github, then make a pull-request.
  Or e-mail to us at: <support@saomaicenter.org>.
  We will pack it with next release.
  
