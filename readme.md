@@ -1,4 +1,4 @@
-# SMB Test
+  # SMB Test
 
 This is a test repository, prepair for translating any of software from Sao Mai for the blind.
 
@@ -7,3 +7,4 @@ Help to Translate Our Free Software into Your Local Language
 
 Each software has its own translation instruction so please check below for the program or apps you'd like to translate into your language.
 
+[Click here to read instruction for translating Sao Mai Braille](smb/Instruction.md)
